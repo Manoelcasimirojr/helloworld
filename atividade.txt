@@ -1,3 +1,3 @@
 Minha primeira atividade com Git e Github.
-
 Nesta atividade estou aprendendo  criar um repositório, realizar comits e enviar arquivos para o GitHub.
+Nova edição.
